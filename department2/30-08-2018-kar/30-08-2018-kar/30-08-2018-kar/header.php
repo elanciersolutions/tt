@@ -126,7 +126,9 @@
 	<link href="<?php echo $adminurl;?>vendors/bootstrap/css/bootstrap-reset.css" rel="stylesheet">
 	<link href="<?php echo $adminurl;?>vendors/font-awesome/css/font-awesome.css" rel="stylesheet">
 	<link href="<?php echo $adminurl;?>vendors/animations/animate.css" rel="stylesheet">
+	
 	<link href="<?php echo $adminurl;?>vendors/bootstrap-fileupload/bootstrap-fileupload.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css" rel="stylesheet">
     <link href="<?php echo $adminurl;?>vendors/bootstrap-datepicker/css/datepicker.css" rel="stylesheet">
     <link href="<?php echo $adminurl;?>vendors/bootstrap-timepicker/css/timepicker.css" rel="stylesheet">
     <link href="<?php echo $adminurl;?>vendors/bootstrap-datetimepicker/css/datetimepicker.css" rel="stylesheet">
