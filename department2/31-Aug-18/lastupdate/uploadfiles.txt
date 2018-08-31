@@ -1,0 +1,17 @@
+ 
+ Department : Folder
+
+	 1. header.php
+	 2.salesorder.php
+	 3.sales_details.php
+	 4.footer.php
+	 5.sale_qty.php
+	 6.approve_status.php
+	 
+ DB Changes (sales table) : Add Colms
+ 
+     1.sale_total        int 11
+	 2.sale_qty          int 100
+	 3.saleorder_id      int 11
+	 4.userid            int 11
+	 g.approve_status    int 11 
