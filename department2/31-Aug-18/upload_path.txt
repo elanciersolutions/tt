@@ -1,0 +1,24 @@
+Dofirst :  Files
+
+ 1.login.php
+ 2.ajax_login.php
+ 
+ Admin : Files 
+ 
+  1.csv.php
+  2.scv_list.php
+  3.header.php
+  4.footer.php
+  
+  CSV :  Files
+  
+  1.header.php
+  2.footer.php
+  3.logout.php
+  4.profile.php
+  5.dashboard.php
+  
+  DB : Add Table `Sponser`
+   
+
+ 
