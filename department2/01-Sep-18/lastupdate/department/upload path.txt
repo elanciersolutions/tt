@@ -1,0 +1,15 @@
+ Status : 1/09/2018 : Last Update sales Print
+ 
+ Project : Dofirst
+
+ Login   : Department 
+ 
+ Floder  : department
+ 
+  1.salesorder.php
+  2.footer.php
+  3.sales_details.php
+  4.approve_status.php
+  5.sales_print.php
+  
+
