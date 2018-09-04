@@ -1,0 +1,41 @@
+Project : Dofirst
+
+Login   : Admin
+
+Module  : cse
+
+Files : 
+
+      1.header.php
+	  2.csv.php
+	  3.csv_list.php
+	  4.cse.php
+	  5.cse_list.php
+	  6.footer.php
+	  7.hubpin_find.php
+	  
+Login   : Department
+
+Module  : sales	 
+
+Files : 
+
+       1.salesorder.php
+	   2.salesorder_new.php
+	   3.sales_details_new.php
+	   4.sales_details.php
+	   5.footer.php
+	   6.sale_qtynew.php
+	   7.approve_status_new.php
+	   8.sales_printnew.php
+	   9.header.php
+	  
+	  
+	  
+DB : Chnages (Add 'cse_count' table)	
+
+         Sponser table 
+
+ 		          1.assign_city     varchar(255)
+				  2.assign_hubname  varchar(255)
+				  3.assign_pincode  varchar(255)
