@@ -16,15 +16,15 @@
 		  if($sale_qty != 0)
 		  {
 			  $approve_sale=mysql_query("UPDATE `sales_details` SET `approve_status`=1  WHERE  `dept`='$dept' AND `sid`='$saleorder_id' AND product='$pid'");
+			 
 			  
 		  }
 		  else if($sale_qty == 0 &&  $sale_total == "")
 		  {
-			 $approve_sale=mysql_query("UPDATE `sales_details` SET `approve_status`=1,sale_qty='$qty',sale_total='$total'  WHERE  `cat`='$dept' AND `sid`='$saleorder_id' AND product='$pid'"); 
+			 $approve_sale=mysql_query("UPDATE `sales_details` SET `approve_status`=1,sale_qty='$qty',sale_total='$total'  WHERE  `dept`='$dept' AND `sid`='$saleorder_id' AND product='$pid'"); 
 		  }
 	 }
-	 
-	  if($approve_sale)
+	   if($approve_sale)
 	 {
 		 echo 1;
 	 }
@@ -32,6 +32,8 @@
 	 {
 		 echo 2;  
 	 }
+	 
+	 
 	 
    
 	}
