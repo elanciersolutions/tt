@@ -1,0 +1,21 @@
+Project : Dofirst  Date: 06-09-18
+
+Login : Department
+
+Module : Sales API Generate 
+    1.sales order list (packed) -->Completed
+    2.sales order (list of product) api -->Completed
+    
+	4.CSC Assign  (shifted status) -->Completed
+	5.Department Login (users Add to Delivered boy creation and Assign CSC) -->Ongoing
+	6.CSC List Api -->Completed
+	7.cse hub wise pincode list --->Completed
+	8.Assign cse list change ---> Completed
+	
+Login : Admin 
+   
+  Bug issus then DashBoard Design and Edit table issus -- Pending
+  
+  
+
+ 
