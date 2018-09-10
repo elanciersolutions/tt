@@ -1,0 +1,47 @@
+Project : Dofirst          Date 10-Sep-2018
+
+  Login : Admin
+  
+    Floder : admin
+	Modlue : csc
+	  Files : 
+	  
+	      1.csv_list.php
+		  2.csv.php
+  
+  
+  Login : Department
+  
+    Floder : department,app
+	Modlue : sales
+	  
+	  Files :  
+	   
+	   1.approve_status_new.php
+	   
+	Floder : APP
+	
+	  Files : 
+	  
+	   1.today_csclist_api.php
+	   2.sales_shifted.php
+	   3.sales_orderlist.php
+	   4.pending_salesorder_list.php
+	   5.pending_salesoder_details.php
+	   6.pending_sales_shifted.php
+	   7.pending_csclist.php
+	   8.history_csc_saleorderlist.php
+	   9.history_csc_list.php
+	   
+	   DB: sales,sales_details
+	   
+	     Table : sales
+		     
+			 1.approve_date               Date
+			 2.approve_dtime              Datetime
+			 3.delivery_to_csc_date       Date
+			 4.delivery_to_csc_status     int 11
+			 5.approve_date               Date
+			 6.approve_dtime              Datetime
+  
+       
