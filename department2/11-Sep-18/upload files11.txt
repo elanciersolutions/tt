@@ -1,0 +1,25 @@
+Project : Dofirst          Date 10-Sep-2018
+
+   Login : Admin
+   
+   Module : product mgnt
+   
+   Folder : admin
+   
+    Files :
+	  
+	  1.category.php
+	  2.category_list.php
+	  3.subcategory.php
+	  4.subcategory_list.php
+	  5.brand_list.php
+	  6.brand.php
+	  7.product.php
+	  8.product_list.php
+	  9.footer.php
+	  
+	  
+	  DB : Changes ,category,brand,sub_category,product
+	  
+	      department varchar 255
+	 
