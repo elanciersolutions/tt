@@ -1,0 +1,50 @@
+Project : Dofirst 
+
+ Login : Admin
+  
+  Module : Product Mgnt
+  
+   Folder : admin
+   
+     1.Subcategory_find.php
+	 2.brand.php
+	 3.brand_list.php
+	 4.subcategory_list.php
+     5.category.php
+     6.category_list.php
+     7.category_find.php
+     8.subcategory.php
+     9.brand_find.php
+     10.product.php
+     11.product_list.php
+     12.app_status.php
+     13.footer.php
+
+ Login : Department
+ 
+  Module : Product Mgnt
+   
+    Folder : department
+
+        1.category.php
+        2.category_list.php
+        3.subcategory_purchase.php
+        4.subcategory_list.php
+        5.subcategory_find.php
+        6.subcategory.php
+        7.productdetails_find.php
+        8.product_list.php
+        9.footer.php
+        10.brand_list.php
+		11.brand_find.php
+		12.brand_fetch_purchase.php
+		13.brand.php
+		14.app_status.php
+		15.addpurchase.php
+		16.add_supplier.php
+
+    
+        DB Add table supplier
+     
+   
+    
