@@ -8,9 +8,9 @@
 	  
 		$today_csc_list = mysql_real_escape_string($json_get['today']);
 	   
-	   $cscid = mysql_query("select * from sales  where `approve_date`='$today_csc_list' and `approve_status`!=0");
+	   $cscid = mysql_query("select * from sales  where `approve_date`='$today_csc_list' and `approve_status` !=0");
 	   
-	   $num = mysql_num_rows(mysql_query("select * from sales where `approve_date`='$today_csc_list' and `approve_status`!=0"));
+	   $num = mysql_num_rows(mysql_query("select * from sales where `approve_date`='$today_csc_list' and `approve_status` !=0"));
 	   
 	 if($num > 0)
 	   {
